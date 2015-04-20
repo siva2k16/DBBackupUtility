@@ -1,0 +1,5 @@
+D:\Demoworkspace\DBBackupUtility\DBBackupUtility\bin\Debug\DBBackupUtility.exe
+D:\Demoworkspace\DBBackupUtility\DBBackupUtility\bin\Debug\DBBackupUtility.pdb
+D:\Demoworkspace\DBBackupUtility\DBBackupUtility\obj\x86\Debug\DBBackupUtility.exe
+D:\Demoworkspace\DBBackupUtility\DBBackupUtility\obj\x86\Debug\DBBackupUtility.pdb
+D:\Demoworkspace\DBBackupUtility\DBBackupUtility\bin\Debug\DBBackupUtility.exe.config
